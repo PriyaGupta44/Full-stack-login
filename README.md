@@ -43,6 +43,6 @@ The next step is transforming this static website into a full-stack web applicat
 - Converting a frontend project into a fully functional full-stack application.
 
 «Progress: Frontend ✅ 
-Backend & Database 🔄 (In Progress)»
+Backend & Database 🔄 (In Progress)» We'll use Flask for the Backend whcih i am learning these days
 
 "Every full-stack application starts with a single page. Today I built the interface; tomorrow I bring it to life with data." 🚀
